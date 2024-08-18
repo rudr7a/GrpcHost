@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-grpc/static/css/main.e6c13ad2.css",
-    "main.js": "/react-grpc/static/js/main.cbbc3cc9.js",
-    "index.html": "/react-grpc/index.html",
-    "main.e6c13ad2.css.map": "/react-grpc/static/css/main.e6c13ad2.css.map",
-    "main.cbbc3cc9.js.map": "/react-grpc/static/js/main.cbbc3cc9.js.map"
+    "main.css": "/GrpcHost/static/css/main.e6c13ad2.css",
+    "main.js": "/GrpcHost/static/js/main.cbbc3cc9.js",
+    "index.html": "/GrpcHost/index.html",
+    "main.e6c13ad2.css.map": "/GrpcHost/static/css/main.e6c13ad2.css.map",
+    "main.cbbc3cc9.js.map": "/GrpcHost/static/js/main.cbbc3cc9.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
